@@ -15,3 +15,12 @@
 li.done>span{
   text-decoration: line-through;
 }
+
+li.task-list-item{
+  display: flex;
+}
+
+.btn-delete-task{
+  margin-left: auto;
+  color: crimson;
+}
