@@ -11,3 +11,7 @@
   padding: 0.5rem 0;
   border-bottom: 1px solid gainsboro;
 }
+
+li.done>span{
+  text-decoration: line-through;
+}
